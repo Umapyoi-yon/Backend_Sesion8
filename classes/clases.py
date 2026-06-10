@@ -9,7 +9,8 @@ class Borde:
     def __str__(self):
         return f"grosor = {self.grosor}, color = {self.color}"
 
-
+ 
+ 
 class Dimension:
     def __init__(self, width, height):
         self.width = width
